@@ -1977,3 +1977,15 @@ ol.default {
         margin: 0.5em 0 0 0; }
         #copyright ul li:first-child {
           margin-top: 0; } }
+.google-maps {
+  position: relative;
+  padding-bottom: 75%;
+  height: 0;
+  overflow: hidden; }
+
+.google-maps iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 400px !important; }
