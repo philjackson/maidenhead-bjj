@@ -1980,8 +1980,7 @@ ol.default {
           margin-top: 0; } }
 .google-maps {
   position: relative;
-  padding-bottom: 75%;
-  height: 0;
+  height: 400px;
   overflow: hidden; }
 
 .google-maps iframe {
