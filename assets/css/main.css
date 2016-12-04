@@ -1989,3 +1989,7 @@ ol.default {
   left: 0;
   width: 100% !important;
   height: 400px !important; }
+
+.times {
+  text-align: center;
+  font-size: 1.2em; }
